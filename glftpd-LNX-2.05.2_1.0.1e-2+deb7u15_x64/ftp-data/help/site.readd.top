@@ -1,0 +1,9 @@
+ .---------------------------------------------------------------------.
+| USAGE: SITE READD <username>                                          |
+| <username> The username to re-add.                                    |
+|                                                                       |
+| Note that in order for a user to be readded, they must have been      |
+| deleted with the SITE DELUSER command.                                |
+|                                                                       |
+| The following users may be READDed:                                   |
++-----------------------------------------------------------------------+

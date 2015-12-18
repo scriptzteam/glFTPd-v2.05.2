@@ -1,0 +1,9 @@
+ .--------------------------------------------------------.
+| USAGE: SITE CHGRP <username> <group> [<group>]           |
+|                                                          |
+| <username> The username to edit.                         |
+| <group>    The group to toggle for this user.            |
+| [<group>]  An optional second group to toggle            |
+|                                                          |
+| SITE CHGRP <username> by itself to list a users affils.  |
+ `--------------------------------------------------------'

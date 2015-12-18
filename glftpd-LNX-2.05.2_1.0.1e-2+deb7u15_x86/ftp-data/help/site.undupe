@@ -1,0 +1,7 @@
+.-----------------------------------------------------.
+| USAGE: SITE UNDUPE <string>                         |
+|                                                     |
+| Example: SITE UNDUPE ind*.zip                       |
+|  (this will undupe ind1.zip, indtbl23456.zip, etc)  |
+|          SITE UNDUPE filename.zip                   |
+`-----------------------------------------------------'

@@ -1,0 +1,10 @@
+ .--------------------------------------------------------------------.
+| USAGE: SITE DELIP <username> [<ip#>|<ident@ip>]                      |
+|                                                                      |
+| <username> The username to delete.                                   |
+| <ip#>      The IP NUMBER to delete.                                  |
+| <ident@ip> The exact ident@ip to delte.                              |
+|                                                                      |
+| You can get the ip lis using the "site user username" command.       |
+| Note that a user may have a maximum of 10 IP's.                      |
+ `--------------------------------------------------------------------'

@@ -1,0 +1,10 @@
+ .--------------------------------------------------------------.
+| USAGE: SITE SEARCH <string> [string2 ...]                      |
+|                                                                |
+| <string> The string to search for.                             |
+|                                                                |
+| The SITE SEARCH command searches the entire site contents for  |
+| directory names that contain the specified <string>.  The      |
+| search is not case-sensitive. If more than one search string   |
+| is specified, logical AND is assumed between them.             |
+ `--------------------------------------------------------------'

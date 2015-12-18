@@ -1,0 +1,11 @@
+ .-------------------------------------------------------.
+| USAGE: SITE GRPLOG <group> <logins>                     |
+|                                                         |
+| <group> The group to edit.                              |
+| <logins> Maximum number of users logged in from this    |
+|          group at the same time.                        |
+|                                                         |
+| Example: SITE GRPLOG STAFF 20                           |
+|  This will allow the group STAFF to have a maximum of   |
+|  20 users logged in at any one time.                    |
+ `-------------------------------------------------------'

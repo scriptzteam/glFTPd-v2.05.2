@@ -1,0 +1,18 @@
+ .--------------------------------------------------------------.
+| USAGE: SITE LASTON [num] [-user] [=group] [type]               |
+|                                                                |
+|  [num]       The number of entries to show                     |
+|  [-user]     Only show lastonlines from this user              |
+|  [=group]    Only show lastonlines from this group             |
+|  [type]      Only show lastonlines from this type              |
+|              Types can be either: U (Upload)                   |
+|                                   D (Download)                 |
+|                                   A (Added user)               |
+|                                   L (Lost connection)          |
+|                                   T (Timed out)                |
+|                                   N (Nuked a dir)              |
+|                                                                |
+| NOTES: You can only specify ONE type at the time.              |
+|        You are able to combine the different options in any    |
+|        way you choose.                                         |
+ `--------------------------------------------------------------'

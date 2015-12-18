@@ -1,0 +1,6 @@
+ .-------------------------------------------------------.
+| USAGE: SITE SHOW <user>                                 |
+|                                                         |
+| Displays userfile for <user> as it appears on the hard  |
+| drive (without parsing it like for "site user").        |
+ `-------------------------------------------------------'

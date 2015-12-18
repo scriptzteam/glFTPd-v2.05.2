@@ -1,0 +1,16 @@
+,-----------------------------------------------------------------------.
+|  SITE USERS <keyword>                                                 |
+|                                                                       |
+|  Keywords:  siteop, gadmin, glock, exempt, deleted, useredit,         |
+|             anonymous, nuke, unnuke, undupe, kick, kill, take, give,  |
+|             users, idler, leech                                       |
+|                                                                       |
+|  If keyword is one character long, it is considered a flag, and only  |
+|  users with that flag will be listed.                                 |
+|                                                                       |
+|  If keyword starts with character '=', it is considered a group, and  |
+|  only users in that group will be listed.                             |
+|                                                                       |
+|  If keyword ends in character '*', all users whose usernames begin    |
+|  with what precedes * will be listed.                                 |
+`-----------------------------------------------------------------------'

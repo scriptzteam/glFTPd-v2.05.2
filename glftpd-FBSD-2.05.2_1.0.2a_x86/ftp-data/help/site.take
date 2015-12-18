@@ -1,0 +1,8 @@
+ .-------------------------------------------------------------.
+| USAGE: SITE TAKE <user> <kbytes>[gGmM] <message>              |
+|        (NOTE: The message part is optional)                   |
+|                                                               |
+| Example: SITE TAKE 1000 user                                  |
+|          (This would take 1meg of credits from user.)         |
+|          The g/m suffix is to specify gigabytes or megabytes  |
+ `-------------------------------------------------------------'

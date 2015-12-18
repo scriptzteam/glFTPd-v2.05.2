@@ -1,0 +1,12 @@
+ .--------------------------------------------------------------.
+| USAGE: SITE NUKE <directory> <multiply> <message>              |
+|                                                                |
+|  <directory> The directory to nuke.                            |
+|  <multiply>  The nuke multiplier value.  i.e. "5" would nuke   |
+|              5x the filesize from the offenders credits.       |
+|  <message>   The message to put in the nukelog, max 12 chars.  |
+|                                                                |
+| NOTE: You must enter the ENTIRE directory name.  It IS case-   |
+| sensitive. The nuke command is a privelige, please use it with |
+| discretion.                                                    |
+ `--------------------------------------------------------------'

@@ -1,0 +1,6 @@
+.-----------------------------------------------------.
+| USAGE: SITE PREDUPE <filename>                      |
+|                                                     |
+| Example: SITE PREDUPE oldfile.zip                   |
+|  (this will add oldfile.zip as a dupe)              |
+`-----------------------------------------------------'

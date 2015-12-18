@@ -1,0 +1,7 @@
+.-----------------------------------------------------.
+| USAGE:  SITE UPDATE <string>                        |
+|                                                     |
+| Example: SITE UPDATE A*                             |
+|  Enters all dirs begining with 'A' in the           |
+|  current working directory into the dirlog database.|
+`-----------------------------------------------------'

@@ -1,0 +1,8 @@
+ .-------------------------------------------------------.
+| USAGE:  SITE REQFILLED <#>                              |
+|                                                         |
+| <#> Number of request to mark as filled.                |
+|                                                         |
+| Example: site reqfilled 7                               |
+| (this will remove request number 7 from the list)       |
+ `-------------------------------------------------------'

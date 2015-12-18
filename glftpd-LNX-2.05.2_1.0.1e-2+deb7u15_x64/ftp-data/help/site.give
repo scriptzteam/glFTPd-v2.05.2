@@ -1,0 +1,8 @@
+ .-------------------------------------------------------------.
+| USAGE: SITE GIVE <username> <kbytes>[gGmM] <message>          |
+|        (NOTE: The message part is optional)                   |
+|                                                               |
+| Example: SITE GIVE user 1000 Here's some credits for ya, pal! |
+|          (This would give user 'user' 1 meg of your credits)  |
+|          The g/m suffix is to specify gigabytes or megabytes  |
+ `-------------------------------------------------------------'

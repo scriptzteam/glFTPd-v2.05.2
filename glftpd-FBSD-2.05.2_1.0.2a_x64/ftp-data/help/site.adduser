@@ -1,0 +1,10 @@
+ .-------------------------------------------------------.
+| USAGE: SITE ADDUSER <username> <password> <IP#1 - 5>    |
+|                                                         |
+| <username> The username to add.                         |
+| <password> The password to set for this user.           |
+| <IP#1 - 5> Optional: Up to 5 ips may be specified here. |  
+|                                                         |
+| After you add a user, use "SITE ADDIP" to add IP's to   |
+| the new account.                                        |
+ `-------------------------------------------------------'
